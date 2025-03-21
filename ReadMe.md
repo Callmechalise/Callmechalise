@@ -22,6 +22,9 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=CallmeChalise &icon=4&color=2)](https://visitcount.itsvg.in)
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=CallmeChalise&icon=4&color=2" alt="Visit Count" />
+</a>
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
