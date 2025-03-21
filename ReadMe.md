@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently working on python projects<br>I am currently learning frontend of web devlopment<br>I am a software engennering student
+I am currently working on python projects<br>I am currently learning DSA<br>I am a software engennering student<br>Learning math for ML
 
 
 ## 🌐 Socials:
