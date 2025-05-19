@@ -1,23 +1,95 @@
-<h1 align="center">Hi 👋, I'm Pabitra Kumar Chalise</h1>
-<h3 align="center">A passionate python devloper and AI Ml enthusiast</h3>
+# 👋 Hi, I'm Chalise (Pabitra Kumar Chalise)
 
+Welcome to my GitHub! I'm an engineering student from Nepal who is passionate about technology, coding, and making cool DIY projects. Whether it's writing Python scripts or building hardware like a force feedback steering wheel, I love solving problems and learning new skills.
 
-- 🔭 I’m currently working on **Diy CNC Plotter**
+---
 
-- 🌱 I’m currently learning **Open Cv,Web Devlopment(Backend)**
+## 💡 About Me
 
-- 📫 How to reach me **pabitrakumarchalise@gmail.com**
+* 🎓 Engineering student with 6-hour daily classes
+* 💰 Handelling my expenses through tuition work
+* 🛠️ DIY Enthusiast (FFB wheel, CNC plotter, and more)
+* 📈 Learning AI/ML and applying practical projects
+* 🧠 Always exploring how to combine hardware and software
+* ♫ Skilled guitar player and music enthusiast
+* 🌏 Fascinated by the history of technology and innovation
 
-- ⚡ Fun fact **I am a quick learner and i got bored quicker than that**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/toxic_pabitra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="toxic_pabitra" height="30" width="40" /></a>
-</p>
+## 👩‍🏫 Teaching
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+* 📘 Tutor for school-level students
+* 📚 Strong in explaining core science and math concepts
+* 🗓️ Balancing study, work, and self-learning projects
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ccallmechalise&show_icons=true&locale=en&layout=compact" alt="ccallmechalise" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ccallmechalise&" alt="ccallmechalise" /></p>
+## 🎓 Skills
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge\&logo=arduino\&logoColor=white)
+![Guitar](https://img.shields.io/badge/Guitar-Music-ff69b4?style=for-the-badge)
+
+---
+
+## 🧐 Interests
+
+* 🔧 Hardware DIY (Force Feedback Wheel, CNC Plotter, etc.)
+* 📊 Stock Market Analysis & Simulators
+* 🧠 Machine Learning, AI, and Data Science
+* 🖥️ Web Development (HTML, CSS, JS — no backend)
+* ⚖️ History of technology and innovation
+* 🎶 Playing Guitar and music composition
+
+---
+
+## ☕ Hobbies
+
+* ⛰️ Trekking
+* 🌽 Hiking
+* 📷 Photography
+* ♫ Playing guitar and writing melodies
+* 🧲 Electronics tinkering
+* 🎱 Playing pool
+* 🏐 Futsal
+* 🏍️ Riding bikes
+
+---
+
+## 📂 Ongoing Projects
+
+* 🚗 DIY Force Feedback Steering Wheel (RS-775 motor, Arduino Leonardo)
+* ✍️ CNC Plotter/Writing Machine
+* 📈 Stock Market Simulator using Pandas & NumPy
+* 🧼 Data Cleaning Challenge Project
+* 🧩 Algorithm Codebase Repository (Essential categorized algorithms)
+* 🛂 Task Posting Website (for microjobs & gigs)
+
+---
+
+## 🚀 Goals
+
+* 🧠 Become an expert in AI & ML
+* 📚 Master essential math for AI: Linear Algebra, Statistics, and Probability
+* 🧰 Build a practical portfolio of software & hardware projects
+* 🌐 Share knowledge and open source what I learn
+
+---
+
+## Let's Connect!
+
+Feel free to check out my repositories or reach out if you’re interested in collaborating on tech, education, or DIY projects.
+
+> "Learning by doing is how I grow. From Python scripts to motor drivers — I'm always building something!"
+
+Thanks for visiting!
+
+---
+
+⭐ *Don’t forget to star and follow if you find my projects interesting!*
