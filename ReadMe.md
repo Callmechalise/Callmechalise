@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pabitra Kumar Chalise</h1>
 <h3 align="center">A passionate python devloper and AI Ml enthusiast</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ccallmechalise" alt="ccallmechalise" /></a> </p>
 
 - 🔭 I’m currently working on **Diy CNC Plotter**
 
