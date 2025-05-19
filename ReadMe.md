@@ -67,7 +67,6 @@ Welcome to my GitHub! I'm an engineering student from Nepal who is passionate ab
 ## 📂 Ongoing Projects
 
 * 🚗 DIY Force Feedback Steering Wheel (RS-775 motor, Arduino Leonardo)
-* ✍️ CNC Plotter/Writing Machine
 * 📈 Stock Market Simulator using Pandas & NumPy
 * 🧼 Data Cleaning Challenge Project
 * 🧩 Algorithm Codebase Repository (Essential categorized algorithms)
