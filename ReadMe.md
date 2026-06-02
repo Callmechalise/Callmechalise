@@ -1,96 +1,101 @@
 # 👋 Hi, I'm Chalise (Pabitra Kumar Chalise)
 
-Welcome to my GitHub! I'm an engineering student from Nepal who is passionate about technology, coding, and making cool DIY projects. Whether it's writing Python scripts or building hardware like a force feedback steering wheel, I love solving problems and learning new skills.
+Welcome to my GitHub profile. I am an engineering student from Nepal with a strong interest in software development, embedded systems, and applied problem-solving. I enjoy building both software and hardware projects that combine practical engineering with real-world applications.
 
 ---
 
-## 💡 About Me
+## 📌 About Me
 
-* 🎓 Engineering student with 6-hour daily classes
-* 💰 Handelling my expenses through tuition work
-* 🛠️ DIY Enthusiast (FFB wheel, CNC plotter, and more)
-* 📈 Learning AI/ML and applying practical projects
-* 🧠 Always exploring how to combine hardware and software
-* ♫ Skilled guitar player and music enthusiast
-* 🌏 Fascinated by the history of technology and innovation
-
----
-
-## 👩‍🏫 Teaching
-
-* 📘 Tutor for school-level students
-* 📚 Strong in explaining core science and math concepts
-* 🗓️ Balancing study, work, and self-learning projects
+- 🎓 Engineering student with a structured academic schedule
+- 💰 Managing personal expenses through tuition-based teaching
+- 🛠️ Enthusiastic about DIY engineering projects (FFB steering system, CNC plotter, etc.)
+- 📈 Currently exploring Artificial Intelligence and Machine Learning
+- 🧠 Interested in integrating hardware systems with software solutions
+- 🎵 Guitar player with a strong interest in music and composition
+- 🌍 Interested in the evolution of technology and engineering systems
 
 ---
 
-## 🎓 Skills
+## 👨‍🏫 Teaching Experience
 
+- 📘 Teaching school-level mathematics and science
+- 📚 Focused on simplifying complex concepts for better understanding
+- ⏱️ Balancing academics, work, and self-learning projects effectively
+
+---
+
+## 🛠️ Technical Skills
+
+### Programming & Development
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![Guitar](https://img.shields.io/badge/Guitar-Music-ff69b4?style=for-the-badge)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### Web Development
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+
+### Data & AI
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
+### Tools & Hardware
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
 ---
 
-## 🧐 Interests
+## 🔍 Areas of Interest
 
-* 🔧 Hardware DIY (Force Feedback Wheel, CNC Plotter, etc.)
-* 📊 Stock Market Analysis
-* 🧠 Machine Learning, AI, and Data Science
-* 🖥️ Web Development (HTML, CSS, JS — no backend)
-* ⚖️ History of technology and innovation
-* 🎶 Playing Guitar and music composition
-
----
-
-## ☕ Hobbies
-
-* ⛰️ Trekking
-* 🌽 Hiking
-* 📷 Photography
-* ♫ Playing guitar and writing melodies
-* 🧲 Electronics tinkering
-* 🎱 Playing pool
-* 🏐 Futsal
-* 🏍️ Riding bikes
+- 🔧 Embedded systems and DIY electronics
+- 📊 Stock market analysis and simulation
+- 🤖 Artificial Intelligence and Machine Learning
+- 🌐 Frontend web development
+- ⚙️ Engineering design and automation systems
+- 🎼 Music and guitar composition
 
 ---
 
-## 📂 Ongoing Projects
+## 🎯 Hobbies
 
-* 🚗 DIY Force Feedback Steering Wheel (RS-775 motor, Arduino Leonardo)
-* 📈 Stock Market Simulator using Pandas & NumPy
-* 🧼 Data Cleaning Challenge Project
-* 🧩 Algorithm Codebase Repository (Essential categorized algorithms)
-* 🛂 Task Posting Website (for microjobs & gigs)
-
----
-
-## 🚀 Goals
-
-* 🧠 Become an expert in AI & ML
-* 📚 Master essential math for AI: Linear Algebra, Statistics, and Probability
-* 🧰 Build a practical portfolio of software & hardware projects
-* 🌐 Share knowledge and open source what I learn
+- ⛰️ Trekking and hiking
+- 📸 Photography
+- 🎸 Playing guitar
+- 🧲 Electronics experimentation
+- 🎱 Pool
+- ⚽ Futsal
+- 🏍️ Motorbike riding
 
 ---
 
-## Let's Connect!
+## 🚧 Current Projects
 
-Feel free to check out my repositories or reach out if you’re interested in collaborating on tech, education, or DIY projects.
-
-> "Learning by doing is how I grow. From Python scripts to motor drivers — I'm always building something!"
-
-Thanks for visiting!
+- 🚗 DIY Force Feedback Steering Wheel (RS-775 motor + Arduino Leonardo)
+- 📈 Stock Market Simulation using NumPy and Pandas
+- 🧼 Data Cleaning and Preprocessing Practice Project
+- 🧩 Algorithm Practice Repository (structured problem-solving collection)
+- 🛠️ Task Posting Platform (micro-task and gig-based system concept)
 
 ---
 
-⭐ *Don’t forget to star and follow if you find my projects interesting!*
+## 🎯 Goals
+
+- Develop strong expertise in Artificial Intelligence and Machine Learning
+- Strengthen mathematical foundations (Linear Algebra, Probability, Statistics)
+- Build a strong portfolio of practical software and hardware projects
+- Contribute to open-source projects and share technical knowledge
+
+---
+
+## 📫 Contact
+
+Feel free to explore my repositories and collaborate on interesting projects in software development, education, or hardware engineering.
+
+---
+
+> “I focus on learning through building—transforming ideas into working systems, from code to circuits.”
+
+---
