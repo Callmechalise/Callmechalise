@@ -6,7 +6,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Callmechalise&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-  <a href="https://github.com/pabitra-chalise">
+  <a href="https://github.com/Callmechalise">
     <img src="https://img.shields.io/github/followers/Callmechalise?label=Followers&style=social" alt="GitHub Followers" />
   </a>
 </p>
