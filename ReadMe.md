@@ -5,9 +5,9 @@
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=pabitra-chalise&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Callmechalise&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
   <a href="https://github.com/pabitra-chalise">
-    <img src="https://img.shields.io/github/followers/pabitra-chalise?label=Followers&style=social" alt="GitHub Followers" />
+    <img src="https://img.shields.io/github/followers/Callmechalise?label=Followers&style=social" alt="GitHub Followers" />
   </a>
 </p>
 
