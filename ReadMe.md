@@ -159,10 +159,9 @@ Welcome to my GitHub profile! I'm an engineering student from Nepal passionate a
 | Project | Tech Stack | Status |
 |---------|-----------|--------|
 | 🚗 Force Feedback Steering Wheel | Arduino, C++, RS-775 Motor | 🚧 In Progress |
-| 📈 Stock Market Simulator | Python, NumPy, Pandas | 🚧 In Progress |
-| 🧼 Data Cleaning Pipeline | Python, Pandas | 🚧 In Progress |
+| 📈 Stock Market predictor | Python, NumPy, Pandas | 🚧 In Progress |
 | 🧩 Algorithm Practice | C++, Python | 📚 Active |
-| 🛠️ Task Posting Platform | React, FastAPI, MongoDB | 📋 Planning |
+| 🛠️ smart poultry farming | React, FastAPI, Esp32 | 📋 Planning |
 | 🤖 Robotics Control System | ROS, Python, Arduino | 🚧 In Progress |
 
 ---
