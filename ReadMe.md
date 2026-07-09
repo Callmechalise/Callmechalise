@@ -132,10 +132,6 @@ Welcome to my GitHub profile! I'm an engineering student from Nepal passionate a
       <br/><b>Automation</b>
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" />
-      <br/><b>DevOps</b>
-    </td>
-    <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" />
       <br/><b>Backend APIs</b>
     </td>
