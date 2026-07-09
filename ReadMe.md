@@ -215,7 +215,7 @@ graph LR
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pabitra-chalise&theme=radical&no-frame=true&row=2&column=3" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Callmechalise&theme=radical&no-frame=true&row=2&column=3" alt="GitHub Trophies" />
 </div>
 
 ---
