@@ -95,7 +95,7 @@ Welcome to my GitHub profile! I'm an engineering student from Nepal passionate a
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pabitra-chalise&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Callmechalise&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
